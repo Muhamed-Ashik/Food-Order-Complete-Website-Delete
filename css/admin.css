@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* Start of the custom classes editings */
+
+.wrapper{
+    /* border: 1px solid black; */
+    width: 80%;
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.clear-fix{
+    float: none;
+    clear: both;
+}
+
+.btn-medium-size{
+    width: 20% !important;
+}
+
+.text-orange{
+    color: #e67e22;
+}
+
+.error{
+    color: #ff0000;
+}
+
+.success{
+    color: #008000;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.padding-bottom {
+    padding-bottom: 3%;
+}
+
+
+/* End of the custome classes editings */
+
+/* Start of the Menu Editings */
+.menu{
+    border-bottom: 1px solid grey;
+}
+
+.menu ul{
+    list-style-type: none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #e67e22;
+    font-weight: bold;
+}
+/* End of the Menu Editings */
+
+.menu ul li a:hover{
+    color: #ff4757;
+}
+
+.logout-link{
+    color: #eb2f06 !important;
+}
+
+.logout-link:hover{
+    color: #ff0000 !important;
+}
+
+/* Start of the Main Content Editings */
+.main-content{
+    background-color: #f1f2f6;
+    min-height: 90vh;
+}
+
+.dashboard-box{
+    background-color: white;
+    width: 19%;
+    padding: 2%;
+    margin: 1%;
+    float:left;
+}
+
+/* Start of the admin editings */
+
+.main-heading{
+    margin-bottom: 3%;
+}
+
+.btn-add{
+    background-color: #57606f;
+    border: 2px solid black;
+    /* color: #ff4757; */
+    color: #e67e22;
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn-add:hover{
+    background-color: #2ed573;
+    color: black;
+}
+
+.admin-view-table{
+    width: 100%;
+    margin-top: 3%;
+}
+
+table tr th{
+    padding: 1%;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+table tr td{
+    padding: 1%;
+}
+
+.btn-update{
+    background-color: #57606f;
+    padding: 1%;
+    text-decoration: none;
+    /* color: #ff4757;    */
+    color: #e67e22;
+    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn-update:hover{
+    background-color:#1e90ff;
+    color: black;
+}
+
+.btn-delete{
+    background-color: #57606f;
+    padding: 1%;
+    /* color: #ff4757; */
+    color: #e67e22;
+    text-decoration: none;
+    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn-delete:hover{
+    background-color: #ff3838;
+    color: black;
+}
+
+/* Start of the Add Admin Page Editings */
+
+.table-30{
+    width: 30%;
+}
+
+.btn-admin-add{
+    color: #e67e22;
+    padding: 5%;
+    background-color: #57606f;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-admin-add:hover{
+    background-color: #2ed573;
+    color: black;   
+}
+
+
+/* End of the Add Admin Page Editings */
+
+/* Start of the Admin Change Password Editings */
+
+/* End of the Admin Change Password Editings */
+
+/* End of the admin  editings */
+
+
+/* End of the Main Content Editings */
+
+/* Start of the Login Editings */
+
+/* Start of  the  Login customer Class */
+
+
+
+/* end  of  the  Login customer Class */
+
+.login{
+    border: 2px solid #000000;
+    border-radius: 10px;
+    width: 20%;
+    padding: 8% 10%;
+    margin: 8% auto;
+}
+
+
+.login-heading{
+    padding-bottom: 5%;
+}
+
+
+
+/* End of the Login Editings */
+
+/* Start of the Footer Editings */
+
+.footer{
+    border-top: 2px solid black;
+}
+
+/* End of the Footer Editings */
+
+
+
